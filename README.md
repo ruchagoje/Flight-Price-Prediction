@@ -1,4 +1,4 @@
-****Flight Price Prediction**
+****Flight Price Prediction** </br>
 ****Project Overview**
 This project aims to analyze and predict flight ticket prices based on various features related to flight journeys. The dataset includes information on airlines, journey dates, sources, destinations, routes, departure and arrival times, durations, stops, and additional information such as meal options or layovers. The primary goal is to explore the data (EDA) and prepare it for building machine learning models to accurately predict flight prices.
 

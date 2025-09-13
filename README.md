@@ -1,5 +1,5 @@
-**Flight Price Prediction**
-****Project Overview**
+**Flight Price Prediction** </br>
+**Project Overview** </br>
 This project aims to analyze and predict flight ticket prices based on various features related to flight journeys. The dataset includes information on airlines, journey dates, sources, destinations, routes, departure and arrival times, durations, stops, and additional information such as meal options or layovers. The primary goal is to explore the data (EDA) and prepare it for building machine learning models to accurately predict flight prices.
 
 **Dataset Description** </br>
@@ -38,15 +38,11 @@ Influence of factors such as number of stops, duration, and additional info on p
 
 Data cleaning steps including handling missing values and feature engineering for model readiness.
 
-Environment Setup </br>
-Ensure the following libraries are installed:
+**Environment Setup** </br>
+Ensure the following libraries are installed: </br>
 
-pandas
-
-numpy
-
-matplotlib
-
-seaborn
-
-openpyxl (for reading Excel files)
+pandas </br>
+numpy </br>
+matplotlib </br>
+seaborn </br>
+openpyxl (for reading Excel files) </br>

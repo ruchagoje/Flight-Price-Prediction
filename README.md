@@ -1,8 +1,8 @@
-****Flight Price Prediction** </br>
+**Flight Price Prediction**
 ****Project Overview**
 This project aims to analyze and predict flight ticket prices based on various features related to flight journeys. The dataset includes information on airlines, journey dates, sources, destinations, routes, departure and arrival times, durations, stops, and additional information such as meal options or layovers. The primary goal is to explore the data (EDA) and prepare it for building machine learning models to accurately predict flight prices.
 
-**Dataset Description
+**Dataset Description** </br>
 The dataset contains information on approximately 10,683 flight records with the following columns:
 
 Airline: Name of the airline operating the flight (e.g., IndiGo, Air India, Jet Airways)
@@ -29,7 +29,7 @@ Price: Ticket price (target variable)
 
 Additional processed features in the analysis include date, month, year, arrival and departure hour and minute extracted for modeling.
 
-**Exploratory Data Analysis (EDA)**
+**Exploratory Data Analysis (EDA)** </br>
 Analysis of distribution of flight prices across different airlines and routes.
 
 Impact of journey date, month, and temporal variables on price variation.
@@ -38,7 +38,7 @@ Influence of factors such as number of stops, duration, and additional info on p
 
 Data cleaning steps including handling missing values and feature engineering for model readiness.
 
-Environment Setup
+Environment Setup </br>
 Ensure the following libraries are installed:
 
 pandas
